@@ -1,4 +1,4 @@
-# Image-stegnography
+# Image-steganography
 using LSB method in python.
 
 ## Installation 
